@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 line 1
-<<<<<<< HEAD
 line 2
 line 3
 line 4
 line 5
-=======
-line 2
->>>>>>> parent of 68fe087... added line 3 and 4
-=======
-line 1
->>>>>>> parent of aac5f25... added line 2
+
