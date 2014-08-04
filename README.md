@@ -28,6 +28,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 *List of AutoHotkey_L tools.*
 
 ### Interpreter
+* [AutoHotkey_L](http://ahkscript.org/download/) - AutoHotkey_L installer and binaries.
 
 ### Integrated Development Environment
 
