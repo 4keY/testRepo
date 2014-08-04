@@ -8,6 +8,8 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Integrated Development Environment](#integrated-development-environment)
+    - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
+    - [Script Recorders and Writers](#script-recorders-and-writers)
   - [Resources](#resources)
   - [Contributing](#contributing)
 
@@ -28,6 +30,10 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 ### Interpreter
 
 ### Integrated Development Environment
+
+### GUI WYSIWYG Builders
+
+### Script Recorders and Writers
 
 
 ## Resources
