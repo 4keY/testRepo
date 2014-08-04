@@ -4,6 +4,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 - [Awesome AutoHotkey_L](#awesome-AutoHotkey_L)
   - [Scripts](#scripts)
     - [Standard Libraries](#standard-libraries)
+    - [Frameworks](#frameworks)
   - [Tools](#tools)
   - [Resources](#resources)
   - [Contributing](#contributing)
@@ -15,6 +16,8 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 *List of useful AutoHotkey_L scripts*
 
 ### Standard Libraries
+
+### Frameworks
 
 
 ## Tools
