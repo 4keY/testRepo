@@ -3,8 +3,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 - [Awesome AutoHotkey_L](#awesome-AutoHotkey_L)
   - [Scripts](#scripts)
-    - [Standard Libraries](#standard-libraries)
-    - [Frameworks](#frameworks)
+    - [GUI](#GUI)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Integrated Development Environment](#integrated-development-environment)
@@ -20,9 +19,8 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 *List of useful AutoHotkey_L scripts.*
 
 
-### Standard Libraries
-
-### Frameworks
+### GUI
+* [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made in AutoHotkey.
 
 
 ## Tools
