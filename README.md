@@ -6,7 +6,8 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
     - [Standard Libraries](#standard-libraries)
     - [Frameworks](#frameworks)
   - [Tools](#tools)
-  - [Interpreter](#interpreter)
+    - [Interpreter](#interpreter)
+    - [Integrated Development Environment](#integrated-development-environment)
   - [Resources](#resources)
   - [Contributing](#contributing)
 
@@ -25,6 +26,8 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 *List of AutoHotkey_L tools*
 
 ### Interpreter
+
+### Integrated Development Environment
 
 
 ## Resources
