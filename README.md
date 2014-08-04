@@ -4,6 +4,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 - [Awesome AutoHotkey_L](#awesome-AutoHotkey_L)
   - [Scripts](#scripts)
     - [GUI](#gui)
+    - [Text manipulation](#text-manipulation)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Integrated Development Environment](#integrated-development-environment)
@@ -23,6 +24,9 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 ### GUI
 * [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
+
+### Text manipulation
+* [TF](https://github.com/hi5/TF) - Functions for text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables) manipulation. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=576).
 
 
 ## Tools
