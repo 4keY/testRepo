@@ -2,14 +2,14 @@
 A curated list of awesome AutoHotkey_L code and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 - [Awesome AutoHotkey_L](#awesome-rust)
-  - [Code](#code)
+  - [Scripts](#scripts)
   - [Tools](#tools)
   - [Resources](#resources)
 
 
 
 
-## Code
+## Scripts
 
 ## Tools
 
