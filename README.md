@@ -5,6 +5,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
   - [Scripts](#scripts)
   - [Tools](#tools)
   - [Resources](#resources)
+  - [Contributing](#contributing)
 
 
 
