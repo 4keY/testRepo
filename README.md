@@ -3,7 +3,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 - [Awesome AutoHotkey_L](#awesome-AutoHotkey_L)
   - [Scripts](#scripts)
-    - [GUI](#GUI)
+    - [GUI](#gui)
   - [Tools](#tools)
     - [Interpreter](#interpreter)
     - [Integrated Development Environment](#integrated-development-environment)
