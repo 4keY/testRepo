@@ -3,11 +3,14 @@ A curated list of awesome AutoHotkey_L code and resources. Inspired by the other
 
 - [Awesome AutoHotkey_L](#awesome-rust)
   - [Code](#code)
-- [Resources](#resources)
-- [Tools](#tools)
+  - [Tools](#tools)
+  - [Resources](#resources)
+
 
 
 
 ## Code
+
+## Tools
 
 ## Resources
