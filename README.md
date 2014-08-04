@@ -3,7 +3,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 - [Awesome AutoHotkey_L](#awesome-AutoHotkey_L)
   - [Scripts](#scripts)
-    - [Standard Libraries](### standard-libraries)
+    - [Standard Libraries](#standard-libraries)
   - [Tools](#tools)
   - [Resources](#resources)
   - [Contributing](#contributing)
