@@ -34,6 +34,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ### Integrated Development Environment
+* [DRAKON Editor](http://ahkscript.org/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE4AutoHotkey is a lightweight and easy to use SciTE-based AutoHotkey script editor. Also has built-in debugger and WYSIWYG GUI builder and some other utilities.
 
 
