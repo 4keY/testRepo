@@ -10,6 +10,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Script Recorders and Writers](#script-recorders-and-writers)
   - [Resources](#resources)
+    - [Websites](#websites)
   - [Contributing](#contributing)
 
 
@@ -49,6 +50,8 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 ## Resources
 *Various websites, documentation, guides, videos and articles related to AutoHotkey_L.*
+
+### Websites
 
 
 ## Contributing
