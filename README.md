@@ -38,6 +38,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 * [DRAKON Editor](http://ahkscript.org/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](http://ahkscript.org/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
+* [Sublime 4 Autohotkey](http://www.autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 Autohotkey is a patch for Sublime Text text editor which adds support for Autohotkey.
 
 
 ### GUI WYSIWYG Builders
