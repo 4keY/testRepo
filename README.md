@@ -52,7 +52,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 *Various websites, documentation, guides, videos and articles related to AutoHotkey_L.*
 
 ### Websites
-* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey_L download section and documentation. Hosts forum.
+* [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey_L download section and documentation. Hosts AutoHotkey official forum.
 * [autohotkey.com](http://www.autohotkey.com/) - Former official website of AutoHotkey. *Hosts outdated version of AutoHotkey (AutoHotkey Basic, not AutoHotkey_L !) and documentation!* Also hosts forum.
 
 ## Contributing
