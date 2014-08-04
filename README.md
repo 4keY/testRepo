@@ -20,7 +20,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ### GUI
-* [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made in AutoHotkey.
+* [Beautiful Examples of GUIs](http://ahkscript.org/boards/viewtopic.php?f=6&t=3851) - Some beautiful examples of GUIs made with AutoHotkey.
 
 
 ## Tools
