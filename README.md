@@ -33,6 +33,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 ### Integrated Development Environment
 
 ### GUI WYSIWYG Builders
+* [GUI Creator (formerly Basic GUI Creator)](http://ahkscript.org/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
 
 ### Script Recorders and Writers
 * [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners.
