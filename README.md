@@ -10,6 +10,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
     - [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
     - [Script Recorders and Writers](#script-recorders-and-writers)
   - [Resources](#resources)
+  - [Documentation](#documentation)
     - [Websites](#websites)
   - [Contributing](#contributing)
 
@@ -50,6 +51,9 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 ## Resources
 *Various websites, documentation, guides, videos and articles related to AutoHotkey_L.*
+
+### Documentation
+* [AutoHotkey_L official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey_L documentation.
 
 ### Websites
 * [ahkscript.org](http://ahkscript.org/) - Official website of AutoHotkey. Hosts uptodate AutoHotkey_L download section and documentation. Hosts AutoHotkey official forum.
