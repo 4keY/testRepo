@@ -9,7 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Subgroup and list items should be sorted *alphabetically*. Exeptions are:
   1. In **Scripts** group, subgroups *Standard Libraries* comes first and subgroup *Frameworks* comes second.
   2. In group **Tools**, subgroup *Interpreter* comes first.
-  3. In group **Resources**, in subgroup *Websites*, ahkscript.org comes first and autohotkey.com comes second. 
+  3. In group **Resources**, in subgroups *Websites*, *Documentation* and *Quick-start guides*, official ones comes first. 
 - The link should be the name of the script or tool or resource.
 - Descriptions should be clear, concise, and non-promotional.
 - Descriptions should follow the link, on the same line.
