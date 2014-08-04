@@ -5,14 +5,14 @@ This resource was made by the AutoHotkey community and wouldn't be possible with
 Please ensure your pull request adheres to the following guidelines:
 - Please search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Chose corresponding section (Scripts or Tools or Resources) for your suggestion.
+- Chose corresponding group (Scripts or Tools or Resources) and subgroup for your suggestion.
 - List items should be sorted *alphabetically*. Exeptions are:
-  1. In *Scripts* section, subgroups **Standard Libraries** and **Frameworks** comes first.
-  2. In section *Tools*, subgroup **Interpreter** comes first.
+  1. In *Scripts* group, subgroups **Standard Libraries** and **Frameworks** comes first.
+  2. In group *Tools*, subgroup **Interpreter** comes first.
 - The link should be the name of the script or tool or resource.
 - Descriptions should be clear, concise, and non-promotional.
 - Descriptions should follow the link, on the same line.
-- New sections, or improvements to the existing ones are welcome.
+- New groups and subgroups, or improvements to the existing ones are welcome.
 
 Please contribute links to script/tool/resource you have used or are familiar with. This will help ensure high-quality entries.
 
