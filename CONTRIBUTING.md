@@ -1,4 +1,4 @@
-awesome-AutoHotkey_L is a specially curated list for high-quality, actively maintained AutoHotkey_L scripts, tools and resources.
+awesome-AutoHotkey_L is a specially curated list for high-quality, AutoHotkey_L scripts, tools and resources.
 This resource was made by the AutoHotkey community and wouldn't be possible without you! We appreciate and recognize [all contributors](/contributors).
 
 # Contribution Guidelines
