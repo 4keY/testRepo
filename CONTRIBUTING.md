@@ -21,9 +21,9 @@ Please contribute links to script/tool/resource you have used or are familiar wi
 
 To stay on the list, scripts, tools and resource should adhere to these quality standards:
 
-- Generally useful to the community
-- Functional
-- Stable, or progressing toward stable
+- Generally useful to the community.
+- Functional.
+- Stable, or progressing toward stable.
 
 
 ## Reporting issues
