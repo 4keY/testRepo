@@ -7,7 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Chose corresponding group (Scripts or Tools or Resources) and subgroup for your suggestion.
 - Subgroup and list items should be sorted *alphabetically*. Exeptions are:
-  1. In **Scripts** group, subgroups *Standard Libraries* comes first and subgroup *Frameworks* comes second.
+  1. In group **Scripts**, subgroups *Standard Libraries* comes first and subgroup *Frameworks* comes second.
   2. In group **Tools**, subgroup *Interpreter* comes first.
   3. In group **Resources**, in subgroups *Websites*, *Documentation* and *Quick-start guides*, official ones comes first. 
 - The link should be the name of the script or tool or resource.
