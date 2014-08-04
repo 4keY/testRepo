@@ -35,6 +35,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 ### GUI WYSIWYG Builders
 
 ### Script Recorders and Writers
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners.
 
 
 ## Resources
