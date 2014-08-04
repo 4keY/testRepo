@@ -41,4 +41,4 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ## Contributing
-Please see [CONTRIBUTING](master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](/master/CONTRIBUTING.md) for details.
