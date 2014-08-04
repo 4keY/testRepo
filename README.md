@@ -17,7 +17,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 *List of AutoHotkey_L tools*
 
 ## Resources
-*Various resources, such as websites, articles and documentation*
+*List of resources related to AutoHotkey_L*
 
 ## Contributing
 Please see [CONTRIBUTING](master/CONTRIBUTING.md) for details.
