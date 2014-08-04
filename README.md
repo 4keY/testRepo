@@ -17,7 +17,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ## Scripts
-*List of useful AutoHotkey_L scripts*
+*List of useful AutoHotkey_L scripts.*
 
 ### Standard Libraries
 
@@ -25,7 +25,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ## Tools
-*List of AutoHotkey_L tools*
+*List of AutoHotkey_L tools.*
 
 ### Interpreter
 
@@ -37,7 +37,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ## Resources
-*Various websites, documentation, guides, videos and articles related to AutoHotkey_L*
+*Various websites, documentation, guides, videos and articles related to AutoHotkey_L.*
 
 
 ## Contributing
