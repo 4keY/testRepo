@@ -37,7 +37,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 
 
 ## Resources
-*List of resources related to AutoHotkey_L*
+*Various websites, documentation, guides, videos and articles related to AutoHotkey_L*
 
 
 ## Contributing
