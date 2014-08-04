@@ -12,7 +12,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
     - [Script Recorders and Writers](#script-recorders-and-writers)
   - [Resources](#resources)
     - [Documentation](#documentation)
-    - [Quick start guides](#quick-start-guides)
+    - [Quick-start guides](#quick-start-guides)
     - [Websites](#websites)
   - [Contributing](#contributing)
 
@@ -60,7 +60,7 @@ A curated list of awesome AutoHotkey_L scripts and resources. Inspired by the ot
 ### Documentation
 * [AutoHotkey_L official documentation](http://ahkscript.org/docs/AutoHotkey.htm) - Official uptodate AutoHotkey_L documentation.
 
-### Quick start guides
+### Quick-start guides
 * [Official quick start tutorial](http://ahkscript.org/docs/Tutorial.htm) - Official quick start tutorial.
 * [AHK_Tutorial](http://ahkscript.github.io/AHK_Tutorial/) - AutoHotkey_L tutorial created by tidbit and currently maintained by [ahkscript organisation](https://github.com/ahkscript/). Github [link](http://github.com/ahkscript/AHK_Tutorial).
 
