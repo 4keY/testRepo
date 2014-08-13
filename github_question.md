@@ -1,1 +1,2 @@
-![](https://github.com/vasili111/testRepo/blob/master/images/3.jpg)
+![](https://raw.githubusercontent.com/vasili111/testRepo/master/images_for_github/3.png)
+![](https://raw.githubusercontent.com/vasili111/testRepo/master/images_for_github/3.jpg)
