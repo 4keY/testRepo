@@ -2,7 +2,7 @@
   - [Libraries](#libraries)
     - [GUI](#gui)
   - [Scripts](#scripts)
-    - [GUI](#gui)
+    - [GUI](#gui-1)
     
     
 #### GUI
